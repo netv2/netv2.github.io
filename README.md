@@ -8,6 +8,6 @@ NETV2 永久发布页
 
 推特发布地址：https://twitter.com/netv2top
 
-QQ群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=PoHl7DjNkP7GShvjD1layfh3rHYyZWBD&jump_from=webapi"><alt="607026961" title="607026961"></a>
+QQ群：607026961 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=PoHl7DjNkP7GShvjD1layfh3rHYyZWBD&jump_from=webapi">
 
 最新地址：https://netv2.top
