@@ -10,4 +10,3 @@ NETV2 永久发布页
 
 QQ群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=PoHl7DjNkP7GShvjD1layfh3rHYyZWBD&jump_from=webapi">607026961 
 
-最新地址：https://netv2.top
