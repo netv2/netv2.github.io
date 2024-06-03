@@ -1,6 +1,31 @@
 <!DOCTYPE html>
 <html lang="zh">
 <head>
+
+ <!-- 微信qq防红-->
+<script>
+// 跳转提示
+if (is_weixn_qq()) {;
+window.location.href = 'https://c.pc.qq.com/middle.html?pfurl=请勿在微信、QQ、百度内打开，返回复制域名，使用浏览器打开例如Edge,Chrome,Safari等';
+ 
+}
+// 判断QQUA的代码无需修改
+function is_weixn_qq(){
+var ua = navigator.userAgent.toLowerCase();
+if(ua.match(/MicroMessenger/i)=="micromessenger") {
+return "weixin";
+} else if (ua.match(/QQ/i) == "qq") {
+return "QQ";
+}
+return false;
+}
+</script>
+
+
+    <!-- B站防盗链解决方案设置 -->
+    <meta name="referrer" content="no-referrer">
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GR42YR1D90"></script>
 <script>
@@ -10,7 +35,8 @@
 
   gtag('config', 'G-GR42YR1D90');
 </script>
-   
+     <!-- 客服系统 -->
+     
 <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="bc90f767-9bb6-4c8c-808a-31eb0b33e347";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 
 
